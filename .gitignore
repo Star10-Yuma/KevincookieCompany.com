@@ -1,0 +1,3 @@
+# the command below ignores all .txt files
+*.txt
+
